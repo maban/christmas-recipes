@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Christmas Recipes
+home: true
 ---
-
-Is this thing on?

@@ -2,22 +2,25 @@
 layout: recipe
 title: Shortcrust pastry
 image: http://farm5.staticflickr.com/4060/4441228033_c5db8a4b8c_q.jpg
+recipe-attribution: Twice Cooked Guide to Shortcrust Pastry
+recipe-attribution-link: http://www.twice-cooked.com/2013/05/01/the-twice-cooked-guide-to-shortcrust-pastry/
 image-attribution: Edward Kimber
 image-attribution-link: http://www.flickr.com/photos/woodwood/4441228033/
 ---
 
 ## Ingredients
 
-* 1 lb plain flour
-* 4 oz lard or hard white vegetable fat
-* 4oz butter or margarine
-* 4-6 tablespoons cold water (you can add zest and juice of an orange instead of some of the water)
+* 1 ¼ cups white flour
+* ½ cup unsalted butter, cubed and chilled
+* 3 tbsp water
+* 2 tbsp granulated sugar (if you’re using the crust for something sweet)
+* ½-1 tsp salt
 
 ## Method
 
-1. Cut the fats into small pieces and rub into the flour using the tips of the fingers until the mixture is like fine breadcrumbs, or use a food processor.
-2. Add the water or orange juice, sprinkling over the surface; mix the dough lightly with a round-bladed knife until it forms large lumps.  
-3. Gather the dough together with the fingers until it leaves the sides of the bowl clean. Form it into one piece and knead it lightly on a floured surface until firm and free from cracks. Chill for 30 minutes before use. 
-4. Roll out the pastry as required, rotating it regularly to keep it an even shape.
-
-From [Jane Pettigrew's Traditional Teatime Recipes](http://books.google.co.uk/books?id=k82wNtm288gC&dq)
+1. Add the flour, salt, and sugar (if you’re using it) to a bowl or food processor and mix.
+2. Add the cubed butter and mix until it is incorporated and the mixture is the texture of sand.
+3. Add the liquid, and mix until it all just barely comes together into a dough.
+3. Tip the contents onto a piece of plastic wrap. Use the plastic wrap to shape the dough into a puck shape, and chill it in the refrigerator for at least half an hour.
+4. At the end of that time, remove the dough from the refrigerator, and on a lightly floured board, roll it into a circle about an inch wider than your pie pan. 
+5. Lay it into the pan, pressing it into the corners so that it fits snugly. Use a fork to perforate the bottom, trim the overhanging dough to half an inch, and then refrigerate for at least half an hour before filling.

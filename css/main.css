@@ -314,7 +314,7 @@ main {
     }
 
 .container {
-    background: url("snow2.png") rgba(219, 207, 198, 0.44);
+    background: url("snow.png") #E5EAEE;
     width: 100%;
     float: left;
     }

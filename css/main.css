@@ -521,14 +521,14 @@ main .img-wrapper {
 .nav-primary .active:hover,
 .nav-primary .active:focus,
 .nav-primary .active:active {
-	background-color: #b3002d;
+	background-color: #6F1E1E;
 	color: #fff;
     }
    
 .nav-primary li a:active,
 .nav-primary .active,
 .nav-primary .active:active {
-    	background-color: #b300ad;
+    	background-color: #b3002d;
     	color: #fff;
     }
 
